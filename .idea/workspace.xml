@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="418a16cc-71b8-4727-a647-1de42fa0f90e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctionCrawler/AuctionCrawler.py" afterPath="$PROJECT_DIR$/auctionCrawler/AuctionCrawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctionCrawler/mysql.py" afterPath="$PROJECT_DIR$/auctionCrawler/mysql.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AuctionCrawler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auctionCrawler/AuctionCrawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="3426" column="135" lean-forward="true" selection-start-line="3426" selection-start-column="135" selection-end-line="3426" selection-end-column="135" />
+              <folding>
+                <element signature="e#444#1174#0" expanded="false" />
+                <element signature="e#1194#1918#0" expanded="false" />
+                <element signature="e#1940#3487#0" expanded="false" />
+                <element signature="e#3508#3800#0" expanded="false" />
+                <element signature="e#3821#9915#0" expanded="false" />
+                <element signature="e#9934#13138#0" expanded="false" />
+                <element signature="e#13156#16969#0" expanded="false" />
+                <element signature="e#16991#20928#0" expanded="false" />
+                <element signature="e#20946#27194#0" expanded="false" />
+                <element signature="e#27212#31803#0" expanded="false" />
+                <element signature="e#31823#35837#0" expanded="false" />
+                <element signature="e#35857#39607#0" expanded="false" />
+                <element signature="e#39628#42369#0" expanded="false" />
+                <element signature="e#42387#45933#0" expanded="false" />
+                <element signature="e#45951#50556#0" expanded="false" />
+                <element signature="e#50578#55866#0" expanded="false" />
+                <element signature="e#55887#59462#0" expanded="false" />
+                <element signature="e#59482#63989#0" expanded="false" />
+                <element signature="e#64008#68385#0" expanded="false" />
+                <element signature="e#68404#69404#0" expanded="false" />
+                <element signature="e#69424#73939#0" expanded="false" />
+                <element signature="e#73959#79389#0" expanded="false" />
+                <element signature="e#79409#82837#0" expanded="false" />
+                <element signature="e#82857#83630#0" expanded="false" />
+                <element signature="e#83650#84628#0" expanded="false" />
+                <element signature="e#84649#86123#0" expanded="false" />
+                <element signature="e#86141#89029#0" expanded="false" />
+                <element signature="e#89054#94312#0" expanded="false" />
+                <element signature="e#94331#94484#0" expanded="false" />
+                <element signature="e#94502#96936#0" expanded="false" />
+                <element signature="e#96957#97597#0" expanded="false" />
+                <element signature="e#97616#97914#0" expanded="false" />
+                <element signature="e#97919#97937#0" expanded="false" />
+                <element signature="e#119688#120641#0" expanded="false" />
+                <element signature="e#120681#120957#0" expanded="false" />
+                <element signature="e#120996#121315#0" expanded="false" />
+                <element signature="e#121364#121493#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctionCrawler/mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="97" column="129" lean-forward="false" selection-start-line="97" selection-start-column="129" selection-end-line="97" selection-end-column="129" />
+              <folding>
+                <marker date="1513319093798" expanded="true" signature="1202:1245" ph="select id fr... auction_court" />
+                <marker date="1513319093798" expanded="true" signature="1362:1417" ph="select id fr... auction_kind" />
+                <marker date="1513319093798" expanded="true" signature="1836:1867" ph="insert into missing_value... " />
+                <marker date="1513319093798" expanded="true" signature="4287:4339" ph="select id fr... auction_court_province" />
+                <marker date="1513319093798" expanded="true" signature="4456:4511" ph="select id fr... auction_kind" />
+                <marker date="1513319093798" expanded="true" signature="4930:4961" ph="insert into missing_value... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctionJdCrawler/mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="83" column="82" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="83" selection-end-column="82" />
+              <folding>
+                <marker date="1512201326088" expanded="true" signature="1155:1205" ph="SELECT count... auction_id" />
+                <marker date="1512201326088" expanded="true" signature="1356:1425" ph="INSERT INTO auction_id... " />
+                <marker date="1512201326088" expanded="true" signature="1454:1485" ph="insert into missing_value... " />
+                <marker date="1512201326088" expanded="true" signature="3561:3601" ph="select id,au... auction_kind" />
+                <marker date="1512201326088" expanded="true" signature="3914:3948" ph="select id,co... court_info" />
+                <marker date="1512201326088" expanded="true" signature="4261:4305" ph="select id,au... auction_status" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auctionCrawler2.0/AuctionCrawler.py" />
+        <option value="$PROJECT_DIR$/auctionCrawler2.0/mysql.py" />
+        <option value="$PROJECT_DIR$/auctionCrawler/AuctionCrawler.py" />
+        <option value="$PROJECT_DIR$/auctionCrawler/mysql.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="168" />
+    <option name="y" value="3" />
+    <option name="width" value="1445" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gitResource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitResource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitResource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitResource" type="462c0819:PsiDirectoryNode" />
+              <item name="auctionCrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitResource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitResource" type="462c0819:PsiDirectoryNode" />
+              <item name="auctionJdCrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitResource\auctionCrawler2.0" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418a16cc-71b8-4727-a647-1de42fa0f90e" name="Default" comment="" />
+      <created>1513315520083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513315520083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auctionJdCrawler/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="83" column="82" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="83" selection-end-column="82" />
+          <folding>
+            <marker date="1512201326088" expanded="true" signature="1155:1205" ph="SELECT count... auction_id" />
+            <marker date="1512201326088" expanded="true" signature="1356:1425" ph="INSERT INTO auction_id... " />
+            <marker date="1512201326088" expanded="true" signature="1454:1485" ph="insert into missing_value... " />
+            <marker date="1512201326088" expanded="true" signature="3561:3601" ph="select id,au... auction_kind" />
+            <marker date="1512201326088" expanded="true" signature="3914:3948" ph="select id,co... court_info" />
+            <marker date="1512201326088" expanded="true" signature="4261:4305" ph="select id,au... auction_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctionCrawler2.0/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="132" column="27" lean-forward="false" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctionCrawler2.0/AuctionCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="96" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctionCrawler/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="97" column="129" lean-forward="false" selection-start-line="97" selection-start-column="129" selection-end-line="97" selection-end-column="129" />
+          <folding>
+            <marker date="1513319093798" expanded="true" signature="1202:1245" ph="select id fr... auction_court" />
+            <marker date="1513319093798" expanded="true" signature="1362:1417" ph="select id fr... auction_kind" />
+            <marker date="1513319093798" expanded="true" signature="1836:1867" ph="insert into missing_value... " />
+            <marker date="1513319093798" expanded="true" signature="4287:4339" ph="select id fr... auction_court_province" />
+            <marker date="1513319093798" expanded="true" signature="4456:4511" ph="select id fr... auction_kind" />
+            <marker date="1513319093798" expanded="true" signature="4930:4961" ph="insert into missing_value... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctionCrawler/AuctionCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="3426" column="135" lean-forward="true" selection-start-line="3426" selection-start-column="135" selection-end-line="3426" selection-end-column="135" />
+          <folding>
+            <element signature="e#444#1174#0" expanded="false" />
+            <element signature="e#1194#1918#0" expanded="false" />
+            <element signature="e#1940#3487#0" expanded="false" />
+            <element signature="e#3508#3800#0" expanded="false" />
+            <element signature="e#3821#9915#0" expanded="false" />
+            <element signature="e#9934#13138#0" expanded="false" />
+            <element signature="e#13156#16969#0" expanded="false" />
+            <element signature="e#16991#20928#0" expanded="false" />
+            <element signature="e#20946#27194#0" expanded="false" />
+            <element signature="e#27212#31803#0" expanded="false" />
+            <element signature="e#31823#35837#0" expanded="false" />
+            <element signature="e#35857#39607#0" expanded="false" />
+            <element signature="e#39628#42369#0" expanded="false" />
+            <element signature="e#42387#45933#0" expanded="false" />
+            <element signature="e#45951#50556#0" expanded="false" />
+            <element signature="e#50578#55866#0" expanded="false" />
+            <element signature="e#55887#59462#0" expanded="false" />
+            <element signature="e#59482#63989#0" expanded="false" />
+            <element signature="e#64008#68385#0" expanded="false" />
+            <element signature="e#68404#69404#0" expanded="false" />
+            <element signature="e#69424#73939#0" expanded="false" />
+            <element signature="e#73959#79389#0" expanded="false" />
+            <element signature="e#79409#82837#0" expanded="false" />
+            <element signature="e#82857#83630#0" expanded="false" />
+            <element signature="e#83650#84628#0" expanded="false" />
+            <element signature="e#84649#86123#0" expanded="false" />
+            <element signature="e#86141#89029#0" expanded="false" />
+            <element signature="e#89054#94312#0" expanded="false" />
+            <element signature="e#94331#94484#0" expanded="false" />
+            <element signature="e#94502#96936#0" expanded="false" />
+            <element signature="e#96957#97597#0" expanded="false" />
+            <element signature="e#97616#97914#0" expanded="false" />
+            <element signature="e#97919#97937#0" expanded="false" />
+            <element signature="e#119688#120641#0" expanded="false" />
+            <element signature="e#120681#120957#0" expanded="false" />
+            <element signature="e#120996#121315#0" expanded="false" />
+            <element signature="e#121364#121493#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
